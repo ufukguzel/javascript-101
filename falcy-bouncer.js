@@ -5,3 +5,5 @@ function bounce(arr){
     }
     return filteredArr;
 }
+
+// bu fonksiyon hatalrı değerleri sile örneğin NULL, "", 0,Nan,
